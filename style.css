@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#history{
+    text-align: center;
+    text-decoration: aqua;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0px;
+    padding: 10px;
+
+}
+#history{
+    content: " ";
+    background-color: aqua;
+    background: url("https://wallpaperset.com/w/full/f/3/e/44871.jpg");
+}
+#id1{
+    font: 1.5em sans-serif;
+    display: block;
+}
+#class2{
+    height: 150%;
+    width: 150%;
+}
+
+
+#check{
+    display: flex;
+    color: whitesmoke;
+}
+
+#class4{
+    font-size: 2 rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#history1{
+    text-align: center;
+    text-decoration: aqua;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0px;
+    padding: 10px;
+    background: url("https://wallpaperset.com/w/full/e/b/2/44872.jpg");
+}
+
+#new3{
+    display: flex;
+    padding: 20px;
+    border-radius: 10px;
+    margin:10px;
+}
+#id3{
+    color: aliceblue;
+}
+#new3 .img1{
+    border: 2px solid rgb(183, 7, 214);
+    padding: 34px;
+    margin: 3px 6px;
+    border-radius: 25px;
+    background-color: rgb(97, 3, 134);
+}
